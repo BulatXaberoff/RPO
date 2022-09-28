@@ -1,0 +1,11 @@
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Раб5\bin\Debug\Раб5.exe.config
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Раб5\bin\Debug\Раб5.exe
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Раб5\bin\Debug\Раб5.pdb
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Раб5\obj\Debug\Раб4.csproj.AssemblyReference.cache
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Раб5\obj\Debug\Раб4.csproj.SuggestedBindingRedirects.cache
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Раб5\obj\Debug\Раб5.Form1.resources
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Раб5\obj\Debug\Раб5.Properties.Resources.resources
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Раб5\obj\Debug\Раб4.csproj.GenerateResource.cache
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Раб5\obj\Debug\Раб4.csproj.CoreCompileInputs.cache
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Раб5\obj\Debug\Раб5.exe
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Раб5\obj\Debug\Раб5.pdb

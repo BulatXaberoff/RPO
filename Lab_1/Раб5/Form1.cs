@@ -16,5 +16,21 @@ namespace Раб5
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (radioButton1.Checked)
+            {
+                float dist = float.Parse(textBox1.Text);
+                float cost = (float)(dist * 0.7);
+                label1.Text=cost.ToString();
+            }
+            if (radioButton2.Checked)
+            {
+                float dist = float.Parse(textBox1.Text);
+                float cost = (float)(dist * 0.45);
+                label1.Text = cost.ToString();
+            }
+        }
     }
 }

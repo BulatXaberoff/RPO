@@ -41,7 +41,7 @@ namespace Раб6
             [19] = "Девятьнадцать",
         };
 
-        Dictionary<int, string> tennery = new Dictionary<int, string>
+        Dictionary<int, string> values_1 = new Dictionary<int, string>
         {
             [2] = "Двадцать",
             [3] = "Тридцать",
@@ -64,23 +64,23 @@ namespace Раб6
             if (textBox1.Text.Length == 2)
             {
                 var sc = textBox1.Text.ToArray();
-                int n1 = Convert.ToInt32(sc[0].ToString());
-                int n2 = Convert.ToInt32(sc[1].ToString());
+                int num1 = Convert.ToInt32(sc[0].ToString());
+                int num2 = Convert.ToInt32(sc[1].ToString());
 
-                if (n1 == 1)
+                if (num1 == 1)
                 {
                     label2.Text = values[n];
                 }
                 else
                 {
-                    label2.Text = tennery[n1] + " " + values[n2];
+                    label2.Text = values_1[num1] + " " + values[num2];
                 }
             }
-            if (textBox1.Text == "100")
+            if (n == 100)
             {
                 label2.Text = "Сто";
             }
-            if (textBox1.Text == "0")
+            if (n == 0)
             {
                 label2.Text = "Ноль";
             }

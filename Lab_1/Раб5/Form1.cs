@@ -22,14 +22,14 @@ namespace Раб5
             if (radioButton1.Checked)
             {
                 float dist = float.Parse(textBox1.Text);
-                float cost = (float)(dist * 0.7);
-                label1.Text=cost.ToString();
+                float cost = (float)(dist * 10*1.25);
+                label1.Text=cost.ToString()+"р";
             }
             if (radioButton2.Checked)
             {
                 float dist = float.Parse(textBox1.Text);
-                float cost = (float)(dist * 0.45);
-                label1.Text = cost.ToString();
+                float cost = (float)(dist * 10);
+                label1.Text = cost.ToString()+"р";
             }
         }
     }

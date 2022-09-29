@@ -50,7 +50,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(128, 143);
+            this.textBox1.Location = new System.Drawing.Point(141, 143);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 17;
@@ -60,9 +60,9 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(29, 146);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(80, 13);
+            this.label5.Size = new System.Drawing.Size(106, 13);
             this.label5.TabIndex = 16;
-            this.label5.Text = "Сумма вклада";
+            this.label5.Text = "Сумма вклада (руб)";
             // 
             // label2
             // 

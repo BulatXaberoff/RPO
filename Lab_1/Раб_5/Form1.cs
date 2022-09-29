@@ -28,7 +28,7 @@ namespace Раб_5
             matan.Value = 5;
             programming.Value = 4;
             english.Value = 4;
-            grant.Value = 2300;
+            grant.Value = 1700;
             DataGridViewRow row0=new DataGridViewRow();
             row0.Cells.AddRange(id,algebra,matan,programming,english,grant);  
             dataGridView1.Rows.Add(row0);
@@ -67,6 +67,14 @@ namespace Раб_5
             float m = int.Parse(mat);
             float p = int.Parse(prog);
             float e = int.Parse(engl);
+            if (a<4)
+                return 0;
+            if (m < 4)
+                return 0;
+            if (p < 4)
+                return 0;
+            if (e < 4)
+                return 0;
             float res = (a + m + p + e) / 20;
             if (res == 1)
             {

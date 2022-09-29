@@ -52,7 +52,7 @@
             this.Column5});
             this.dataGridView1.Location = new System.Drawing.Point(12, 12);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(653, 235);
+            this.dataGridView1.Size = new System.Drawing.Size(644, 235);
             this.dataGridView1.TabIndex = 0;
             // 
             // Column1
@@ -114,7 +114,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.dataGridView1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Подсчет стипендии";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
 

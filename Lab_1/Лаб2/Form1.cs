@@ -41,21 +41,22 @@ namespace Лаб2
             switch (choice)
             {
                 case 0:
-                    profit = (rate[0] * deposit * 1*30/365);
+                    profit = rate[0] * deposit * 1 * 30 / 365;
                     break;
                 case 1:
-                    profit=rate[1] * deposit * 3* 30 / 365;
+                    profit = rate[1] * deposit * 3 * 30 / 365;
                     break;
                 case 2:
-                    profit=rate[2] * deposit * 6* 30 / 365;
+                    profit = rate[2] * deposit * 6 * 30 / 365;
                     break;
                 case 3:
-                    profit=rate[3] * deposit * 12* 30 / 365;
+                    profit = rate[3] * deposit * 12 * 30 / 365;
                     break;
                 default:
                     break;
             }
-            label2.Text += $"Ваша процентная ставка {rate[choice]}% в месяц составит по вкладу {profit}";
+            profit = (float)Math.Round(profit, 2);
+            label2.Text += $"Ваша процентная ставка {rate[choice]}% \nв месяц составит по вкладу {profit} рублей";
 
         }
     }

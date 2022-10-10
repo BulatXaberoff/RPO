@@ -43,7 +43,7 @@ namespace Раб1
                     }
                 }
             }
-            label4.Text = sum.ToString();
+            label4.Text = sum.ToString() + "р";
         }
     }
 }

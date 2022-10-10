@@ -34,6 +34,8 @@
             this.toolStripMenuItem4 = new System.Windows.Forms.ToolStripMenuItem();
             this.переводCВFToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.расчетМатрицыToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.x2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.x3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.справкаToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.panel1 = new System.Windows.Forms.Panel();
             this.menuStrip1.SuspendLayout();
@@ -84,10 +86,26 @@
             // 
             // расчетМатрицыToolStripMenuItem
             // 
+            this.расчетМатрицыToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.x2ToolStripMenuItem,
+            this.x3ToolStripMenuItem});
             this.расчетМатрицыToolStripMenuItem.Name = "расчетМатрицыToolStripMenuItem";
             this.расчетМатрицыToolStripMenuItem.Size = new System.Drawing.Size(239, 22);
             this.расчетМатрицыToolStripMenuItem.Text = "Расчет матрицы";
-            this.расчетМатрицыToolStripMenuItem.Click += new System.EventHandler(this.расчетМатрицыToolStripMenuItem_Click);
+            // 
+            // x2ToolStripMenuItem
+            // 
+            this.x2ToolStripMenuItem.Name = "x2ToolStripMenuItem";
+            this.x2ToolStripMenuItem.Size = new System.Drawing.Size(92, 22);
+            this.x2ToolStripMenuItem.Text = "2x2";
+            this.x2ToolStripMenuItem.Click += new System.EventHandler(this.x2ToolStripMenuItem_Click);
+            // 
+            // x3ToolStripMenuItem
+            // 
+            this.x3ToolStripMenuItem.Name = "x3ToolStripMenuItem";
+            this.x3ToolStripMenuItem.Size = new System.Drawing.Size(92, 22);
+            this.x3ToolStripMenuItem.Text = "3x3";
+            this.x3ToolStripMenuItem.Click += new System.EventHandler(this.x3ToolStripMenuItem_Click);
             // 
             // справкаToolStripMenuItem
             // 
@@ -112,7 +130,7 @@
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "2 работа";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
@@ -130,6 +148,8 @@
         private System.Windows.Forms.ToolStripMenuItem переводCВFToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem расчетМатрицыToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem справкаToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem x2ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem x3ToolStripMenuItem;
     }
 }
 

@@ -49,9 +49,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(65, 51);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(238, 13);
+            this.label1.Size = new System.Drawing.Size(244, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Вводите ваши стороны треугольник через \";\"";
+            this.label1.Text = "Вводите ваши стороны треугольника через \";\"";
             // 
             // button1
             // 

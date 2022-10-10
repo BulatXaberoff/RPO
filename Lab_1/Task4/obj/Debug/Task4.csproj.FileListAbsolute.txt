@@ -8,3 +8,14 @@ C:\Users\Student\source\repos\Lab_1\Task4\obj\Debug\Task4.csproj.GenerateResourc
 C:\Users\Student\source\repos\Lab_1\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
 C:\Users\Student\source\repos\Lab_1\Task4\obj\Debug\Task4.exe
 C:\Users\Student\source\repos\Lab_1\Task4\obj\Debug\Task4.pdb
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Task4\bin\Debug\Task4.exe.config
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Task4\bin\Debug\Task4.exe
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Task4\bin\Debug\Task4.pdb
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Task4\obj\Debug\Task4.csproj.AssemblyReference.cache
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Task4\obj\Debug\Task4.csproj.SuggestedBindingRedirects.cache
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Task4\obj\Debug\Task4.Form1.resources
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Task4\obj\Debug\Task4.Properties.Resources.resources
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Task4\obj\Debug\Task4.csproj.GenerateResource.cache
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Task4\obj\Debug\Task4.exe
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Task4\obj\Debug\Task4.pdb

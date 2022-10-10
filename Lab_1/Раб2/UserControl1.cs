@@ -22,7 +22,7 @@ namespace Раб2
             try
             {
                 int salary = int.Parse(textBox1.Text);
-                label2.Text = "Ваша зарплата с учетом НДФЛ: " + salary * 0.87;
+                label2.Text = "Ваша зарплата с учетом НДФЛ: " + salary * 0.87 + "р";
             }
             catch (Exception)
             {

@@ -10,3 +10,7 @@ C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Раб2\obj\Debug\Раб2.cs
 C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Раб2\obj\Debug\Раб2.csproj.CoreCompileInputs.cache
 C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Раб2\obj\Debug\Раб2.exe
 C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Раб2\obj\Debug\Раб2.pdb
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Раб2\obj\Debug\Раб2.UserControl2.resources
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Раб2\obj\Debug\Раб2.UserControl3.resources
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Раб2\obj\Debug\Раб2.UserControl4.resources
+C:\Users\bulyn\Source\Repos\BulatXaberoff\RPO\Lab_1\Раб2\obj\Debug\Раб2.UserControl5.resources

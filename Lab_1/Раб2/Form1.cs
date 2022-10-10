@@ -30,12 +30,21 @@ namespace Раб2
 
         private void переводCВFToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            panel1.Controls.Clear();
+            panel1.Controls.Add(new UserControl3());
         }
 
-        private void расчетМатрицыToolStripMenuItem_Click(object sender, EventArgs e)
-        {
 
+        private void x2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            panel1.Controls.Clear();
+            panel1.Controls.Add(new UserControl4());
+        }
+
+        private void x3ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            panel1.Controls.Clear();
+            panel1.Controls.Add(new UserControl5());
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Ра63\bin\Debug\Ра63.exe.config
+C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Ра63\bin\Debug\Ра63.exe
+C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Ра63\bin\Debug\Ра63.pdb
+C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Ра63\obj\Debug\Ра63.csproj.AssemblyReference.cache
+C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Ра63\obj\Debug\Ра63.csproj.SuggestedBindingRedirects.cache
+C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Ра63\obj\Debug\Ра63.Form1.resources
+C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Ра63\obj\Debug\Ра63.Form2.resources
+C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Ра63\obj\Debug\Ра63.Properties.Resources.resources
+C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Ра63\obj\Debug\Ра63.csproj.GenerateResource.cache
+C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Ра63\obj\Debug\Ра63.csproj.CoreCompileInputs.cache
+C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Ра63\obj\Debug\Ра63.exe
+C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Ра63\obj\Debug\Ра63.pdb
+C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Ра63\obj\Debug\Ра63.UserControl1.resources
+C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Ра63\obj\Debug\Ра63.UserControl2.resources
+C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Ра63\obj\Debug\Ра63.UserControl3.resources
+C:\Users\bulyn\source\repos\BulatXaberoff\RPO\Lab_1\Ра63\obj\Debug\Ра63.UserControl4.resources

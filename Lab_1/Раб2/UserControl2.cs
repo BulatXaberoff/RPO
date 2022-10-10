@@ -25,7 +25,18 @@ namespace Раб2
             {
                 arr[i] = int.Parse(s[i]);
             }
-            
+            int a = arr[0];int b = arr[1]; int c = arr[2];
+            triangle(a, b, c);
         }
+        void triangle(int a , int b, int c)
+        {
+            if (a + b > c && a + c > b && b + c > a)
+            {
+                label3.Text = "Существует";
+            }
+            else
+                label3.Text = "Не существует";
+            }
+        }
+      
     }
-}
